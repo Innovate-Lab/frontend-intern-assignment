@@ -11,32 +11,32 @@ Your task is to create a web application with the following features using a fra
 
 ## Feature Requirements
 
-- [ ] ** Connect to Wallet**  
+- [ ] **Connect to Wallet**  
   Implement a simple interface that allows users to easily connect their blockchain wallet. Users should be able to select from a list of available wallets (e.g., MetaMask, WalletConnect, or any wallet supported by your chosen blockchain network).
 
-- [ ] ** Show Connected Account (Address)**  
+- [ ] **Show Connected Account (Address)**  
   Display the user's wallet address in a clear and intuitive way. Ensure that this information updates dynamically when the user connects or switches accounts.
 
-- [ ] ** Initialize Client to Connect to the Network**  
+- [ ] **Initialize Client to Connect to the Network**  
   Set up a client to connect to the blockchain network, specifically a **testnet**. Ensure that connecting to the network is seamless and provides feedback to the user if the connection is successful or fails.
 
-- [ ] ** Fetch & Show Balance for Connected Account**  
+- [ ] **Fetch & Show Balance for Connected Account**  
   Retrieve and display the account balance of the connected wallet. 
   
-- [ ] ** Build a Form to Transfer Balance**  
+- [ ] **Build a Form to Transfer Balance**  
   Create a simple and intuitive form where users can:
   - Enter the **destination address**.
   - Specify the **amount to transfer**.
   
   Include necessary validation to ensure that the input data is correct (e.g., valid address format, sufficient balance).
 
-- [ ] ** Check Transaction Status**  
+- [ ] **Check Transaction Status**  
   Provide feedback to the user about the status of their transaction, specifically:
   - **Finalized**: When the transaction is finalized on the blockchain.
   
   This feature should inform the user about the transaction's progress in a user-friendly way.
 
-- [ ] ** Check Transaction Result**  
+- [ ] **Check Transaction Result**  
   Clearly show whether the transaction was **successful** or **not**. Include error messages or confirmations for better user understanding.
 
 ---
