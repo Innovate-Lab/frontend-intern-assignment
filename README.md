@@ -46,13 +46,13 @@ Your task is to create a web application with the following features using a fra
 1. **Commit & Push your code to your GitHub repository**
 ```shell 
 git add .
-git commit -m "Submit Blockchain Intern Assignment"
+git commit -m "Submit Intern Assignment"
 ```
 
 2. **Submit** 👉 [Here](https://vbiacademy.typeform.com/intern)
 
 ---
 
-Thank you for participating in our Blockchain Intern recruitment challenge! We look forward to seeing your work and exploring your potential as part of our team.
+Thank you for participating in our Intern recruitment challenge! We look forward to seeing your work and exploring your potential as part of our team.
 
 **Good luck and happy coding!**
