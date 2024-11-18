@@ -49,7 +49,7 @@ git add .
 git commit -m "Submit Blockchain Intern Assignment"
 ```
 
-2. **Submit** 👉 [Here]("https://vbiacademy.typeform.com/intern")
+2. **Submit** 👉 [Here](https://vbiacademy.typeform.com/intern)
 
 ---
 
