@@ -43,6 +43,7 @@ Your task is to create a web application with the following features using a fra
 ## Implementation Guidelines
 
 1. Fork the repo
+![image](https://github.com/user-attachments/assets/f963ae18-0119-4bfd-b5d6-d38c3ba6d8c1)
 
 2. Clone the repo
 
@@ -92,6 +93,7 @@ git commit -m "Submit Blockchain Intern Assignment"
     ```
     - example: `Luong Van Phap | Submit Blockchain Intern Assignment`
 - Click on `Create pull request`
+![image](https://github.com/user-attachments/assets/5fc0d2a1-ee87-4ec4-ace9-13f03386954c)
 
 ---
 
