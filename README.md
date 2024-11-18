@@ -40,40 +40,7 @@ Your task is to create a web application with the following features using a fra
   Clearly show whether the transaction was **successful** or **not**. Include error messages or confirmations for better user understanding.
 
 ---
-## Implementation Guidelines
 
-1. Fork the repo
-![image](https://github.com/user-attachments/assets/f963ae18-0119-4bfd-b5d6-d38c3ba6d8c1)
-
-2. Clone the repo
-
-```shell
-git clone https://github.com/<your-github-username>/blockchain-intern-assignment.git
-```
-- Replace `<your-github-username>` with your actual GitHub username
-- For example, if your GitHub username is `phapdev`, the command would be:
-
-```shell
-git clone https://github.com/phapdev/blockchain-intern-assignment.git
-```
-
-3. Create a folder with your name
-
-```shell
-mkdir <your-name>
-```
-4. Create a your project inside the folder
-- Use React, Next.js, or any other framework of your choice
-5. Start implementing the requirements
-- [ ] Connect to Wallet
-- [ ] Show Connected Account (Address)
-- [ ] Initialize Client to Connect to the Network
-- [ ] Fetch & Show Balance for Connected Account
-- [ ] Build a Form to Transfer Balance
-- [ ] Check Transaction Status
-- [ ] Check Transaction Result
-
----
 ## Submission Instructions
 
 1. **Commit & Push your code to your GitHub repository**
@@ -82,18 +49,7 @@ git add .
 git commit -m "Submit Blockchain Intern Assignment"
 ```
 
-2. **Create pull request**
-- Go to your repository on GitHub
-- Click on `Pull requests`
-- Click on `New pull request`
-- Click on `Create pull request`
-- Add a title 
-    ```shell
-    Your Name | Submit Blockchain Intern Assignment
-    ```
-    - example: `Luong Van Phap | Submit Blockchain Intern Assignment`
-- Click on `Create pull request`
-![image](https://github.com/user-attachments/assets/5fc0d2a1-ee87-4ec4-ace9-13f03386954c)
+2. **Submit** 👉 [Here]("https://vbiacademy.typeform.com/intern")
 
 ---
 
