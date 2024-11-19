@@ -11,11 +11,14 @@ Your task is to create a web application with the following features using a fra
 
 ## Feature Requirements
 
+### Must Have
 - [ ] **Connect to Wallet**  
   Implement a simple interface that allows users to easily connect their blockchain wallet. Users should be able to select from a list of available wallets (e.g., MetaMask, WalletConnect, or any wallet supported by your chosen blockchain network).
 
 - [ ] **Show Connected Account (Address)**  
   Display the user's wallet address in a clear and intuitive way. Ensure that this information updates dynamically when the user connects or switches accounts.
+
+### Nice to Have
 
 - [ ] **Initialize Client to Connect to the Network**  
   Set up a client to connect to the blockchain network, specifically a **testnet**. Ensure that connecting to the network is seamless and provides feedback to the user if the connection is successful or fails.
@@ -41,18 +44,18 @@ Your task is to create a web application with the following features using a fra
 
 ---
 
-## Submission Instructions
+## Technical Requirements
+- Use React.js, Next.js, or any other framework of your choice.
+- Use Tailwind CSS for styling, but you can use any other CSS framework if you prefer.
+- Use wallet-adapter to connect to the wallet.( MetaMask, WalletConnect, SuiWallet, etc.)
 
-1. **Commit & Push your code to your GitHub repository**
-```shell 
-git add .
-git commit -m "Submit Intern Assignment"
-```
+## How to Submit
 
-2. **Submit** 👉 [Here](https://vbiacademy.typeform.com/intern)
+Time to complete: **3 days**.
+After you complete the challenge, please submit your code to the following link:
+-  **Submit** 👉 [Here](https://vbiacademy.typeform.com/intern)
 
----
+> Do not forget to clearly state the instructions on how to run your application in the README.md file
 
-Thank you for participating in our Intern recruitment challenge! We look forward to seeing your work and exploring your potential as part of our team.
 
 **Good luck and happy coding!**
