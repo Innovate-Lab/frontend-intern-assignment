@@ -1,6 +1,6 @@
-# Blockchain Intern Recruitment Requirements
+# Frontend Intern Recruitment Requirements
 
-Welcome to our Blockchain Intern recruitment challenge! This project is designed to evaluate your ability to build a simple, user-friendly, and functional interface to interact with a blockchain network. Please read the requirements carefully and complete the challenge as specified.
+Welcome to our Frontend Intern recruitment challenge! This project is designed to evaluate your ability to build a simple, user-friendly, and functional interface to interact with a blockchain network. Please read the requirements carefully and complete the challenge as specified.
 
 ---
 
