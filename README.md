@@ -18,8 +18,6 @@ Your task is to create a web application with the following features using a fra
 - [ ] **Show Connected Account (Address)**  
   Display the user's wallet address in a clear and intuitive way. Ensure that this information updates dynamically when the user connects or switches accounts.
 
-### Nice to Have
-
 - [ ] **Initialize Client to Connect to the Network**  
   Set up a client to connect to the blockchain network, specifically a **testnet**. Ensure that connecting to the network is seamless and provides feedback to the user if the connection is successful or fails.
 
@@ -41,6 +39,31 @@ Your task is to create a web application with the following features using a fra
 
 - [ ] **Check Transaction Result**  
   Clearly show whether the transaction was **successful** or **not**. Include error messages or confirmations for better user understanding.
+
+### Nice to Have
+- [ ] **Transaction History**  
+  Display a history of past transactions for the connected account, including details like transaction hash, amount transferred, and timestamp.
+
+- [ ] **Network Switching**  
+  Allow users to switch between different testnets and update the application accordingly. Handle any necessary network changes and notify the user.
+
+- [ ] **Enhanced UI/UX**  
+  Implement a polished and responsive user interface. Use animations, tooltips, and progress indicators to improve the overall user experience.
+
+- [ ] **Dark Mode**  
+  Add a toggle for dark mode, allowing users to switch between light and dark themes seamlessly.
+
+- [ ] **Notifications**  
+  Provide notifications for important events, such as when the wallet is connected, when a transaction is submitted, and when a transaction is confirmed or fails.
+
+- [ ] **Gas Fee Estimation**  
+  Show an estimated gas fee before users confirm their transactions. Allow them to adjust the gas fee settings if needed.
+
+- [ ] **Localization**  
+  Support multiple languages, enabling users to switch to their preferred language.
+
+- [ ] **Testing**  
+  Write unit tests and integration tests to ensure that the core features work as expected. Use a testing framework of your choice (e.g., Jest, React Testing Library).
 
 ---
 
