@@ -76,9 +76,10 @@ Your task is to create a web application with the following features using a fra
 
 Time to complete: **3 days**.
 After you complete the challenge, please submit your code to the following link:
--  **Submit** 👉 [Here](https://vbiacademy.typeform.com/intern)
+- Do not forget to clearly state the instructions on how to run your application in the README.md file
+- Video demo your project.
+  
+**Submit** 👉 [Here](https://vbiacademy.typeform.com/intern)
 
-> Do not forget to clearly state the instructions on how to run your application in the README.md file
-
-
+---
 **Good luck and happy coding!**
